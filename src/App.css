@@ -1,0 +1,22 @@
+.param-editor {
+	padding: 16px;
+}
+
+.field {
+	width: 300px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.label {
+	width: 100%;
+	text-align: center;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+.input {
+	padding: 2px;
+	font-family: sans-serif;
+	outline: none;
+}
